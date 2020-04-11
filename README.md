@@ -1,0 +1,3 @@
+# DataWarehouse-ETL-and-Analytics-of-Car-Industry
+
+This project was about the Car Industry that sells and services (repairs) the cars. These three business processes were handled by the three systems: Car Sales Module, Car Service Center, Car Parts Suppliers. Based on these three source systems a whole ER Modelling was done for the source systems and converted those Models into 3 Data Marts in Erwin by using Kimball’s Bottom-Up approach later on into 1 Datawarehouse, Redgate was also used for populating the data, SSIS was used for data cleaning, transformations and integration, Data Cubes were also made and Power BI was used for making reports.
